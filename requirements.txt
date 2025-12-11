@@ -1,3 +1,5 @@
-pyyaml
-tqdm
 pandas
+numpy
+scipy
+matplotlib
+seaborn
